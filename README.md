@@ -1,4 +1,4 @@
-# AirBnb-Tableau-Beginner
+## AirBnb-Tableau-Beginner
 
 # Tableau Airbnb Dashboard
 Welcome to the Tableau Airbnb Dashboard! This dashboard provides insights into Airbnb listings based on a real dataset. Whether you're new to Tableau or just exploring data visualization, this beginner-level dashboard offers various analyses to understand trends and patterns within Airbnb listings.
