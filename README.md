@@ -4,19 +4,19 @@
 Welcome to the Tableau Airbnb Dashboard! This dashboard provides insights into Airbnb listings based on a real dataset. Whether you're new to Tableau or just exploring data visualization, this beginner-level dashboard offers various analyses to understand trends and patterns within Airbnb listings.
 
 # Insights Provided:
-# Price by Zipcode: 
+Price by Zipcode: 
 Visualizes the distribution of Airbnb listing prices across different zip codes to understand price variations based on location.
 
-# Average 
+Average 
 Price by Bedroom: Analyzes the average listing price based on the number of bedrooms to identify pricing trends for different accommodation types.
 
-# Revenue for Year: 
+Revenue for Year: 
 Displays the total revenue generated from Airbnb listings over the specified year, providing an overview of the platform's financial performance.
 
-# Price per Zipcode: 
+Price per Zipcode: 
 Examines the average listing price for each zip code, allowing users to compare prices across different areas.
 
-# Count of Bedrooms: 
+Count of Bedrooms: 
 Presents a breakdown of the number of bedrooms in Airbnb listings to understand the distribution of accommodation types available.
 
 # Dataset:
